@@ -1,11 +1,11 @@
-<p align="center"><img src="https://camo.githubusercontent.com/bc5c77acb656737f31a814e6b1406b4a7d6561bf910db19b23ae228aa6aa6f6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6457784f33364a7a643662545374356449592f67697068792e676966" height="200"/></p><hr><h1 align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I'm Cynthia Inga Candy </br>Web Developer</h1>
+<p align="center"><img src="https://camo.githubusercontent.com/bc5c77acb656737f31a814e6b1406b4a7d6561bf910db19b23ae228aa6aa6f6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6457784f33364a7a643662545374356449592f67697068792e676966" height="200"/></p><hr><h1 align="center">Hey there 👋, I'm Cynthia Inga Candy </br>Web Developer</h1>
 
  
 <p align="center">
   <em>I'm <b>Passionate</b>
     about new challenges to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="10px">. Looking to collaborate with 👯 other <b> Web Developers</b> and
-    <b>Excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="10px">&nbsp.
+    <b>grow</b> :rocket:. Looking to collaborate with 👯 other <b> Web Developers</b> and
+    <b>Excel</b> :1st_place_medal:.
   </em> 
   <br>
   
