@@ -11,9 +11,8 @@
   
   <summary><h2>What I currently do</h2></summary>
     
-- 🔭 I’m currently styding at ![](https://img.shields.io/badge/Microverse-blueviolet) online school for software developers.
 - 🌱 I’m currently learning **JavaScript, React&Redux, Ruby** and some high level programming skills🌍️.
-- 👯 I’m looking to collaborate and contributing to open source projects😄.
+- 👯 I’m looking to collaborate and contribute to open-source projects😄.
 - 💬 Ask me about **Frontend-Web design, and Networking**✨️.. 
 - 📫 How to reach me: `candyinga67@gmail.com`.
 - ⚡ Fun fact: I love listening to music 🎧 , and I like dancing :dancer: , ... 🎵 
