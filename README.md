@@ -4,7 +4,7 @@
 <p align="center">
   <em>I'm <b>Passionate</b>
     about new challenges to 
-    <b>grow</b> :rocket:. Looking to collaborate with 👯 other <b> Web Developers</b> and
+    <b>grow</b> :rocket:. Looking to collaborate with 👯 other <b> Software Engineers</b> and
     <b>Excel</b> :1st_place_medal:.
   </em> 
   <br>
