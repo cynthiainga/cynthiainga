@@ -50,7 +50,7 @@
 ### Connect with me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/CynthiaInga_C) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/cynthia-inga/)
-[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](candyinga67@gmail.com)
+<!-- [![Send me email](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](candyinga67@gmail.com) -->
 <!-- https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white -->
 
 <hr>
